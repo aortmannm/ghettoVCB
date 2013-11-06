@@ -927,19 +927,19 @@ ghettoVCB() {
             fi
 
             # directory name of the individual Virtual Machine backup followed by naming convention followed by count
-            VM_BACKUP_DIR="${BACKUP_DIR}/${VM_NAME}-${VM_BACKUP_DIR_NAMING_CONVENTION}"
+            VM_BACKUP_DIR="${BACKUP_DIR}/${VM_NAME}"
 
             # Rsync relative path variable if needed
-            RSYNC_LINK_DIR="./${VM_NAME}-${VM_BACKUP_DIR_NAMING_CONVENTION}"
+            RSYNC_LINK_DIR="./${VM_NAME}"
 
             # Do indexed rotation if naming convention is set for it
             if [[ ${VM_BACKUP_DIR_NAMING_CONVENTION} = "0" ]]; then
                 indexedRotate "${BACKUP_DIR}" "${VM_NAME}"
             fi
-
+            rm -r "${VM_BACKUP_DIR}"
             mkdir -p "${VM_BACKUP_DIR}"
 
-            cp "${VMX_PATH}" "${VM_BACKUP_DIR}"
+            cp -f "${VMX_PATH}" "${VM_BACKUP_DIR}"
 
             #new variable to keep track on whether VM has independent disks
             VM_HAS_INDEPENDENT_DISKS=0

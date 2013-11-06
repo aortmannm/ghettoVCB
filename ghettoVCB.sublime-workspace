@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/c/Development/private/aortmann/ghettoVCB/ghettoVCB.sh",
+			"settings":
+			{
+				"buffer_size": 61928,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Tasks: Cancel"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"preview",
+				"Strapdown.js Markdown: Preview in a browser"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 347.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Development/sublime-packages-and-configuration/Default (Windows).sublime-keymap",
+		"/C/Development/isis-docs-webapp/package.json",
+		"/C/Users/a.ortmann.CURASYSTEMS/Desktop/windowsAgentEinrichtung.md",
+		"/C/Users/a.ortmann.CURASYSTEMS/Dropbox/zabbix sop.txt",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/C/Development/component.io/package.json",
+		"/C/Development/component.io/Readme.md",
+		"/C/Development/component.io/index.js",
+		"/C/Development/private/aortmann/create_customer_machines/readme.md",
+		"/C/Users/a.ortmann.CURASYSTEMS/Dropbox/githook.md",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Development/ops/chef-solo-server/smartos/build-cookbook.cmd",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"//curainfo/CuraDaten/Software/SmartOS/hook-receiver/lib/TaskManager.js",
+		"//curainfo/CuraDaten/Software/SmartOS/hook-receiver/config/recipes.json",
+		"/C/Users/a.ortmann.CURASYSTEMS/Desktop/Alle Praxis ausser die ganz unten mit Klinik geken.txt",
+		"/C/Users/a.ortmann.CURASYSTEMS/Desktop/speed.md",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Installed Packages/Markdown Preview/Default.sublime-commands",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Installed Packages/GitHub Flavored Markdown Preview/Default.sublime-commands",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/a.ortmann.CURASYSTEMS/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"VM_BACKUP_DIR",
+			"VMDK",
+			"rm ",
+			"getVMDKs",
+			"VM_VMDK_FAILED=0",
+			"VM_VMDK_FAILED",
+			"rm ",
+			"rm",
+			"CP",
+			"cp",
+			"VMDK",
+			"DESTINATION_VMDK",
+			"VMKFSTOOLS_CMD",
+			"DESTINATION_VMDK",
+			"getVMDKs",
+			"cp",
+			"VMX_PATH",
+			"VM_BACKUP_DIR",
+			"${BACKUP_DIR}/${VM_NAME}",
+			"VM_BACKUP_DIR_NAMING_CONVENTION"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/c/Development/private/aortmann/ghettoVCB/ghettoVCB.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "ghettoVCB.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"isis",
+				"C:\\Development\\private\\aortmann\\isis-fifo-importer\\isis-fifo-importer.sublime-project"
+			],
+			[
+				"chef",
+				"C:\\Development\\chef_recipes\\chef_server_and_recipes.sublime-project"
+			],
+			[
+				"hook",
+				"C:\\Development\\private\\aortmann\\hook_receiver\\hook_receiver.sublime-project"
+			],
+			[
+				"proje",
+				"C:\\Development\\private\\aortmann\\project-fifo\\project-fifo.sublime-project"
+			],
+			[
+				"proi",
+				"C:\\Development\\private\\aortmann\\project-fifo\\project-fifo.sublime-project"
+			],
+			[
+				"fif",
+				"C:\\Development\\private\\aortmann\\fifo-isis-commands\\fifo-isis-commands.sublime-project"
+			],
+			[
+				"xml",
+				"C:\\Development\\private\\aortmann\\xml-parser\\xml-parser.sublime-project"
+			],
+			[
+				"got",
+				"C:\\Development\\private\\ozieba\\got-adapter\\got-adapter.sublime-project"
+			],
+			[
+				"che",
+				"C:\\Development\\private\\aortmann\\check-receive-folder\\check-receive-folder.sublime-project"
+			],
+			[
+				"",
+				"C:\\Development\\private\\ozieba\\got-adapter\\got-adapter.sublime-project"
+			],
+			[
+				"clone",
+				"C:\\Development\\private\\aortmann\\clone-local-components\\clone-local-components.sublime-project"
+			],
+			[
+				"clie",
+				"C:\\Development\\wg\\tournamentregistration\\client\\client.sublime-project"
+			],
+			[
+				"stri",
+				"C:\\Development\\private\\ozieba\\string-finder\\string-finder.sublime-project"
+			],
+			[
+				"zab",
+				"C:\\Development\\private\\aortmann\\zabbix-sender\\zabbix-sender.sublime-project"
+			],
+			[
+				"za",
+				"C:\\Development\\private\\aortmann\\zabbix-sender\\zabbix-sender.sublime-project"
+			],
+			[
+				"zabb",
+				"C:\\Development\\private\\aortmann\\zabbix-sender\\zabbix-sender.sublime-workspace"
+			],
+			[
+				"blog",
+				"C:\\Development\\private\\aortmann\\ronny_the_fifth_blog\\blog.sublime-project"
+			],
+			[
+				"ro",
+				"C:\\Development\\private\\aortmann\\ronny_the_fifth_blog\\blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
